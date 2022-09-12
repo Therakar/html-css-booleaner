@@ -34,6 +34,7 @@ h3 span{
     color: #808080;
 }
 
+/* foto e descrizione */
 .ph{
     margin-top: 20px;
     margin-bottom: 20px;
@@ -46,8 +47,26 @@ img{
     width: 49%;
 
 }
+/* /foto e descrizione */
 
 .corpus{
     font-size: 20px;
 }
 
+table{
+    align-items: baseline;
+    text-align: center;
+    width: 100%;
+    text-align: left;
+}
+th{
+    width: 33%;
+}
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.colored{
+    background-color: #B1E5F2;
+}
