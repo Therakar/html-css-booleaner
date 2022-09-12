@@ -8,10 +8,21 @@ header {
     height: 180px;
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
-    
+    background-size:auto;
 }
 
 #logo{
     height: 230px;
     width: 350px;
+}
+
+h1{
+    font-size: 75px;
+}
+
+h3 span{
+    color: #4EA0FF;
+}
+.title{ 
+    color: #808080;
 }
